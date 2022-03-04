@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning Html, CSS, Java Script
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have 4 lovely Ferrets :D
